@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /palette-preview.html
+Sitemap: https://daie.dk/sitemap.xml
